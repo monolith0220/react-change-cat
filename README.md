@@ -1,2 +1,2 @@
-# react-change-cat
+# change-cat
 Created with CodeSandbox
